@@ -1,2 +1,2 @@
-# I only update op-code when I am free just for fun and personal usage 
+I will only update op codes for pet skill and card switch modules.
 
