@@ -1,2 +1,2 @@
-# I JUST UPDATE OP CODES IF I AM FREE FOR FUN AND PERSONAL USAGE 
+# I only update op-code when I am free just for fun and personal usage 
 
