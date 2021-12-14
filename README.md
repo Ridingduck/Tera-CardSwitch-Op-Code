@@ -1,2 +1,2 @@
- only update op codes for pet skill and card switch modules.
+ only update op code for the card switch module hehe.
 
